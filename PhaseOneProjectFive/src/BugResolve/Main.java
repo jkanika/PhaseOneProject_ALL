@@ -111,7 +111,6 @@ public class Main {
     }
     private static void sortExpenses(ArrayList<Integer> arrayList) {
         int arrlength =  arrayList.size();
-        System.out.println(arrlength);
         //Complete the method. The expenses should be sorted in ascending order. 
         
         //The below method uses bubble sorting in sorting the list.
